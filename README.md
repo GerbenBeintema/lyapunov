@@ -44,4 +44,5 @@ t, x, a, logmaxeigs, sim, lamb0, intercept = \
     lyapunov(la.f, la.dfdx, x0=[ 1.83763056,  3.33011506, 10], tmax=200, full_return=True, plot=True)
 ```
 
+Warning: I have verified that this code can work decently, but I have noticed that the computations are a little biased (about 1% of error).
 

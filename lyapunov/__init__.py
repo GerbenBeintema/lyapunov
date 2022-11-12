@@ -1,1 +1,1 @@
-from lyapunov import lyapunov, _lyapunov
+from lyapunov.lyapunov import lyapunov, _lyapunov
