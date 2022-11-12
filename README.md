@@ -46,3 +46,12 @@ t, x, a, logmaxeigs, sim, lamb0, intercept = \
 
 Warning: I have verified that this code can work decently, but I have noticed that the computations are a little biased (about 1% of error).
 
+todo's:
+
+ * Function Docs
+ * Method Docs
+ * More validation
+ * More examples
+ * Discrete time lyapunov exponent
+ * Lyapunov spectrum
+ * Lyapunov Dimension
